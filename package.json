@@ -1,11 +1,16 @@
 {
   "name":"vue-el-mtable",
-  "version": "0.2.0",
+  "version": "0.2.2",
   "private": false,
   "description":"This table component is based on elment UI",
   "main":"lib/MTable.umd.min.js",
   "keywords":["elment-ui","el-table","vue-table"],
   "author":"marendu@qq.com",
+  "homepage":"https://blog.csdn.net/marendu/article/details/103424236",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marendu/vue-el-mtable"
+  },
   "license": "MIT",
   "scripts": {
     "start":"npm run serve",
